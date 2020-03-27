@@ -3,7 +3,7 @@ mqtt for IoT
 
 
 
-this code help you to config SSID and PASS router for connect esp to a router from APmode esp 
+this code help you to config SSID and PASS router for connect esp to a router from APmode esp \n
 APmode SSID micropython  and pass 123456789 , then insert your SSID and PASS ,
 note : if input Pin value = 1  go to config mode,config and restart
 else (if Pin value = 0 )  go to connect MQTT 
